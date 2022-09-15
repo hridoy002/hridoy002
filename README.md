@@ -18,7 +18,7 @@ My Skill on this technology:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="53" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="53" alt="mongodb logo"  />
 </div>
-<br/>
+
 - 🔭 I’m currently working on recreation my old projects. 
 - 🌱 I’m currently learning Typescript 
 - 💬 Ask me about anything 
