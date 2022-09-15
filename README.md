@@ -6,7 +6,7 @@
 I am Md Hridoy Ahmmed, a Frontend web Developer, from Bangladesh.Basically I'm using MERN stack to develop web application. As an experienced Frontend developer , I can bring many skills and a lot of experience in styling projects. I bring direct experience and expertise in languages like HTML5, CSS3,JavaScript, react.Js,NodeJs,MongoDb and ExpressJs also more.I made many projects using MERN stack. I can also offer team leadership experience. Already I worked in a team and completed a nice project.
 
 My Skill on this technology:
-<div align="left">
+<div align="left" style="margin-top:10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="53" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="53" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="53" alt="bootstrap logo"  />
