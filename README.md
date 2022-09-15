@@ -1,6 +1,7 @@
+![Frontend Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGXc8XUoef_tA/profile-displaybackgroundimage-shrink_350_1400/0/1663169180114?e=1668643200&v=beta&t=P9Z6wdENMjttTwxiVhGx6vZzyrZhT-9D_xlf-SZEk6o)
 ### 👋 Hi,This is Hridoy Ahmmed
 #### Frontend Web Developer
-![Frontend Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGXc8XUoef_tA/profile-displaybackgroundimage-shrink_350_1400/0/1663169180114?e=1668643200&v=beta&t=P9Z6wdENMjttTwxiVhGx6vZzyrZhT-9D_xlf-SZEk6o)
+
 
 I am Md Hridoy Ahmmed, a Frontend web Developer, from Bangladesh.Basically I'm using MERN stack to develop web application. As an experienced Frontend developer , I can bring many skills and a lot of experience in styling projects. I bring direct experience and expertise in languages like HTML5, CSS3,JavaScript, react.Js,NodeJs,MongoDb and ExpressJs also more.I made many projects using MERN stack. I can also offer team leadership experience. Already I worked in a team and completed a nice project.
 
