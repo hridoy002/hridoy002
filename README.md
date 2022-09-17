@@ -46,7 +46,7 @@ I am Md Hridoy Ahmmed, a Frontend web Developer, from Bangladesh.Basically I'm u
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy002&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hridoy002)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/hridoy002)  
 
